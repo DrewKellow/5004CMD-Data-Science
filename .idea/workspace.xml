@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="" />
+    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines">
+      <change afterPath="$PROJECT_DIR$/Week-1/NBA-dataset-problems.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,7 +28,9 @@
   "associatedIndex": 6
 }]]></component>
   <component name="ProjectId" id="2rwRN7O6VmyR4sPhdGqlt0l9OHF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,6 +59,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737468108305</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines">
+      <option name="closed" value="true" />
+      <created>1737468212549</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737468212550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
   </component>
 </project>
