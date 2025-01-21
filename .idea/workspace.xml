@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines">
-      <change afterPath="$PROJECT_DIR$/Week-1/NBA-dataset-problems.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="Saving this so I can transfer to my other laptop for ease of use" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.NBA-dataset-problems.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -67,10 +64,19 @@
       <option name="project" value="LOCAL" />
       <updated>1737468212550</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines">
+      <option name="closed" value="true" />
+      <created>1737469266821</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737469266821</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Saving this so I can transfer to my other laptop for ease of use" />
     <MESSAGE value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
     <option name="LAST_COMMIT_MESSAGE" value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
   </component>
