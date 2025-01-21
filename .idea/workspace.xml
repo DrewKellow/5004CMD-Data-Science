@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="Saving this so I can transfer to my other laptop for ease of use" />
+    <list default="true" id="a53ae769-f544-425c-951d-440e4221594d" name="Changes" comment="Saving this so I can transfer to my other laptop for ease of use">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NBA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/NBA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-1/NBA-dataset-problems.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1/NBA-dataset-problems.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2rwRN7O6VmyR4sPhdGqlt0l9OHF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -31,19 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.NBA-dataset-problems.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/irond/PycharmProjects/5004CMD-Data-Science"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.NBA-dataset-problems.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/irond/PycharmProjects/5004CMD-Data-Science&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\irond\PycharmProjects\5004CMD-Data-Science\Week-1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+        <option value="bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17" />
       </set>
     </attachedChunks>
   </component>
@@ -72,12 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1737469266821</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Saving this so I can transfer to my other laptop for ease of use">
+      <option name="closed" value="true" />
+      <created>1737469708544</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737469708544</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Saving this so I can transfer to my other laptop for ease of use" />
     <MESSAGE value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating a repository for the Data Science module to allow for easy access across devices and working on code from other machines" />
+    <MESSAGE value="Saving this so I can transfer to my other laptop for ease of use" />
+    <option name="LAST_COMMIT_MESSAGE" value="Saving this so I can transfer to my other laptop for ease of use" />
   </component>
 </project>
